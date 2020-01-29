@@ -5,7 +5,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config={
-    apiKey: "",
+    apiKey: "AIzaSyAL8Pexg6M-6aNA6bVBcvSsdDcOuoVPC1k",
     authDomain: "fashion-point-db.firebaseapp.com",
     databaseURL: "https://fashion-point-db.firebaseio.com",
     projectId: "fashion-point-db",
